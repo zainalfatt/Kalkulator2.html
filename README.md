@@ -1,5 +1,3 @@
-# Kalkulator2.html
-
 <Style>
   #content{
     background:pink;
@@ -37,6 +35,7 @@
       background:red;
     }
 </Style>
+
 <div id="content">
   Kalkulator Sederhana <br>
   By:<br>
